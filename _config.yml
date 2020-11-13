@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+title: Jessica Lindsay (site under construction)
+url: "https://jmlinds.github.io"
 baseurl:
 google_analytics_key:
 
@@ -11,7 +11,7 @@ logo: /siteicon.png
 description: Photography portfolio template for Jekyll.
 author:
   name:
-  email:
+  email: jmlinds@uw.edu
   twitter: # twitter username without the @ symbol
 social:
   name: Aperture Template
